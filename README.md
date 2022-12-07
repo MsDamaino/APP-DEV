@@ -1,2 +1,3 @@
 # APP-DEV
- My first repository
+# My first repository
+# My favorite series  
